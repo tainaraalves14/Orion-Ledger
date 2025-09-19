@@ -1,0 +1,6 @@
+@OrionLedger.API_HostAddress = http://localhost:5195
+
+GET {{OrionLedger.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
