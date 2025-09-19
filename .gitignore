@@ -1,0 +1,60 @@
+# Build Folders
+bin/
+obj/
+
+# Visual Studio / Rider / VSCode
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# DotCover
+*.dotCover
+
+# JetBrains Rider
+.idea/
+
+# Entity Framework Migrations
+Migrations/
+**/Migrations/
+
+# Docker
+*.dockerignore
+Dockerfile*
+docker-compose*
+
+# Runtime
+*.dll
+*.exe
+*.pdb
+*.cache
+*.runtimeconfig.json
+*.genruntimeconfig.cache
+*.sourcelink.json
+
+# ASP.NET Core
+wwwroot/
+
+# Others
+*.DS_Store
+*.Thumbs.db
