@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HhgML+WXqy0=",
+  "dgSpecHash": "XukGZVmcel8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tainara\\Desktop\\Orion-Ledger\\OrionLedger.Domain\\OrionLedger.Domain.csproj",
+  "projectFilePath": "/app/OrionLedger.Domain/OrionLedger.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

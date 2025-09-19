@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "gfFz5ShWkTWD5Y95qFPJW4Y4Ut+TiZ4Mtv9cxm2W53s=",
+  "Source": "OrionLedger.API",
+  "BasePath": "_content/OrionLedger.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

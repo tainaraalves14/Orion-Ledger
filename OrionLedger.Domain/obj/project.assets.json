@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Tainara\\.nuget\\packages\\": {}
+    "/root/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tainara\\Desktop\\Orion-Ledger\\OrionLedger.Domain\\OrionLedger.Domain.csproj",
+      "projectUniqueName": "/app/OrionLedger.Domain/OrionLedger.Domain.csproj",
       "projectName": "OrionLedger.Domain",
-      "projectPath": "C:\\Users\\Tainara\\Desktop\\Orion-Ledger\\OrionLedger.Domain\\OrionLedger.Domain.csproj",
-      "packagesPath": "C:\\Users\\Tainara\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tainara\\Desktop\\Orion-Ledger\\OrionLedger.Domain\\obj\\",
+      "projectPath": "/app/OrionLedger.Domain/OrionLedger.Domain.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/app/OrionLedger.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Tainara\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -44,7 +44,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0": {
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

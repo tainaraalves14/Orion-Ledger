@@ -48,6 +48,9 @@ builder.Services.AddAuthentication(options =>
     };
 });
 
+// **Adicionando autorização**
+builder.Services.AddAuthorization(); // <- ESSENCIAL para usar app.UseAuthorization()
+
 // Health Checks
 builder.Services.AddHealthChecks()
     .AddNpgSql(builder.Configuration.GetConnectionString("DefaultConnection"), name: "PostgreSQL")
@@ -65,6 +68,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+// **Autenticação e Autorização**
 app.UseAuthentication();
 app.UseAuthorization();
 
